@@ -1,0 +1,89 @@
+body{
+    background-color: #24201f;
+}
+
+h1{
+    font-size: 4.5em;
+    margin-top: 5%;
+    margin-bottom: 0em;
+    margin-left: 5%;
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: white;
+}
+
+h2{
+    font-size: 2.4em;
+    margin-top: 3%;
+    margin-left: 6%;
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: #6b6b6b;
+}
+
+h3{
+    font-size: 2.0em;
+    margin-top: 3%;
+    margin-left: 8%;
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: #f74a4a;
+}
+
+p{
+    font-size: 1.3em;
+    margin-left: 7%;
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: white;
+}
+
+a:hover{
+    color: #878787;
+}
+a{
+    color: lightblue;
+}
+
+li{
+    font-size: 1.4em;
+    margin-left: 10%;
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: white;
+}
+#name{
+    font-size: 2.5em;
+    margin-top: 0em;
+    margin-left: 5%;
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: white;
+}
+
+.sub{
+    font-size: 1.3em;
+    margin-left: 9%;
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: white;
+}
+
+.link{
+    margin-left: 28%;
+    font-size: 1.5em;
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: black;
+}
+
+#banner{
+    background-image: url('Banner.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 95.0em 14.0em;
+    height: 160px;
+    margin-left:4%;
+}
+
+#edu{
+    margin-top: 5%;
+}
+
+#contact{
+    margin-top:10%;
+    background-color: #ff2424;
+    height: 150px;
+}
